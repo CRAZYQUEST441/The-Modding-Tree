@@ -1,8 +1,8 @@
 let modInfo = {
-	name: "big horses",
+	name: "The CQ4 Tree",
 	id: "hapkfhorse",
-	author: "alicepkf",
-	pointsName: "horses",
+	author: "CRAZYQUEST441",
+	pointsName: "people",
 	modFiles: ["layers.js", "tree.js"],
 
 	discordName: "",
@@ -14,13 +14,12 @@ let modInfo = {
 // Set your version in num and name
 let VERSION = {
 	num: "0.0",
-	name: "Literally nothing",
+	name: "First Release",
 }
 
 let changelog = `<h1>Changelog:</h1><br>
 	<h3>v0.0</h3><br>
-		- Added things.<br>
-		- Added stuff.`
+    - Created the game and added the first 4 layers which will have things added to them eventually. For now this is just a test project.`
 
 let winText = `Congratulations! You have reached the end and beaten this game, but for now...`
 

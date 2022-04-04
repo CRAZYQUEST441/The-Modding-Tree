@@ -1,3 +1,8 @@
+# The CQ4 Tree changelog:
+
+# v0.0 - 4/3/22
+- Created the game and added the first 4 layers which will have things added to them eventually. For now this is just a test project.
+
 # The Modding Tree changelog:
 
 # v2.6.6.2 = 9/9/21
